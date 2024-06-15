@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sankar-1110
-- 👀 I’m interested in CODINNG
+- 👀 I’m interested in CODING
 - 🌱 I’m currently learning BACKEND 
 - 💞️ I’m looking to collaborate on some frontend projects
 - 📫 How to reach me 
